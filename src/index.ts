@@ -4,10 +4,12 @@ interface Color {
   blue: number;
 }
 
-const iasundas: Color = {
+const color: Color = {
   red: 255,
   green: 0,
   blue: 0,
 };
 
-console.log(iasundas);
+console.log(color);
+
+export default color;
