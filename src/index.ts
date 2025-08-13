@@ -4,12 +4,12 @@ interface Color {
   blue: number;
 }
 
-const color: Color = {
+const testpublishcommand: Color = {
   red: 255,
   green: 0,
   blue: 0,
 };
 
-console.log(color);
+console.log(testpublishcommand);
 
-export default color;
+export default testpublishcommand;
